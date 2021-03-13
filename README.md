@@ -1,6 +1,6 @@
 # Repo Michelle
-que es el repositorio un lugar donde se almacena informacion de nosotros.
+que es el repositorio
 
-Qué espero del taller?pues saber mas para despues trabajar de ello.
+Qué espero del taller?
 
-Qué sé ahora y qué quiero aprender?estoy aprendiendo a programar y me se un poco las etiquetas.
+Qué sé ahora y qué quiero aprender?
